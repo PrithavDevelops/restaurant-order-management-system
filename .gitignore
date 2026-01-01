@@ -1,0 +1,33 @@
+# Compiled files
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+
+# Data files (optional - remove if you want to track them)
+# menu.txt
+# orders.txt
+temp.txt
+
+# IDE specific files
+*.layout
+*.depend
+.vscode/
+.idea/
+*.cbp
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*~
+*.bak
+*.swp
+*.swo
+
+# Log files
+*.log

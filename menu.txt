@@ -1,0 +1,11 @@
+101|Momo (Veg)|Appetizer|150.00|1
+102|Momo (Chicken)|Appetizer|180.00|1
+103|Chowmein|Main Course|120.00|1
+104|Fried Rice|Main Course|140.00|1
+105|Dal Bhat|Main Course|200.00|1
+106|Pizza|Main Course|350.00|1
+107|Burger|Main Course|180.00|1
+108|Ice Cream|Dessert|100.00|1
+109|Gulab Jamun|Dessert|80.00|1
+110|Coca Cola|Beverage|60.00|1
+111|Fresh Juice|Beverage|100.00|1
